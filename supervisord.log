@@ -1,0 +1,10 @@
+2021-03-11 12:53:15,415 INFO Set uid to user 0 succeeded
+2021-03-11 12:53:15,423 INFO supervisord started with pid 16
+2021-03-11 12:53:16,426 INFO spawned: 'php' with pid 18
+2021-03-11 12:53:17,429 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-11 12:54:04,644 INFO exited: php (terminated by SIGTERM; not expected)
+2021-03-11 12:54:04,663 WARN received SIGTERM indicating exit request
+2021-03-11 13:01:40,713 INFO Set uid to user 0 succeeded
+2021-03-11 13:01:40,722 INFO supervisord started with pid 16
+2021-03-11 13:01:41,726 INFO spawned: 'php' with pid 18
+2021-03-11 13:01:42,728 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
